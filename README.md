@@ -9,11 +9,13 @@ As we all know, Cristiano Ronaldo is a legend in the football world He has playe
 
 The ranking would be done based on the following formula, 
 > Score = 1 / ( 1 + MAE)
+
 MAE => Mean Absolute Error
 
 ### RESULTS
 
 Score = 0.872
+
 Rank = 376
 
 ## Data set --> 'data.csv'
